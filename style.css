@@ -1,0 +1,22 @@
+body {
+    background-color: white;
+}
+
+.mocha_bow {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    text-align: center;
+    color: rgb(241, 205, 157);
+    font-family: cursive;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(241, 205, 157);
+    font-family: cursive;
+}
+
